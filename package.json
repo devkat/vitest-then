@@ -1,0 +1,23 @@
+{
+  "name": "vitest-then",
+  "version": "1.0.0",
+  "description": "Reproduction of vitest bug with then functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devkat/vitest-then.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devkat/vitest-then/issues"
+  },
+  "homepage": "https://github.com/devkat/vitest-then#readme",
+  "devDependencies": {
+    "prettier": "^3.8.1",
+    "vitest": "^4.1.0"
+  }
+}
